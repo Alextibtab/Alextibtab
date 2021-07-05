@@ -6,10 +6,8 @@
 - 2021 Goals: Do more personal projects
 - Fun fact: I play the piano
 
-
 ### Spotify Playing
 [<img src="https://spotify-now-playing-inky-five.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/80ab48f2d9de465b883eb460518b0f58)
-
 
 ### Languages and Tools:
 
