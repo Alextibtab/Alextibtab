@@ -1,6 +1,7 @@
 ### Hi, I'm Alex
 
 ### I'm a Student who does more programming in their spare time 
+<br />
 - I love web development even if I'm not that good 
 - I'd love to work on Open Source projects
 - 2021 Goals: Do more personal projects
