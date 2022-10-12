@@ -1,9 +1,9 @@
 ### Hi, I'm Alex
 
-### I'm a Student who does **more** programming in their spare time 
+### I'm a Software Developer who does **more** programming in their spare time 
 - I love web development even if I'm not that good 
 - I'd love to work on Open Source projects
-- 2021 Goals: Do more personal projects
+- 2023 Goals: Do more HTB and TryHackMe boxes and blog
 - Fun fact: I play the piano
 
 ### Spotify Playing
