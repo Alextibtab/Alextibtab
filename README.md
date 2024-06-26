@@ -4,7 +4,7 @@
   <img src="https://badges.pufler.dev/years/Alextibtab/" alt="Years Badge">
 </p>
 
-<h1 align="right">Hey, I'm Alex!</h1>
+<h1 align="left">Hey, I'm Alex!</h1>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque leo at dolor viverra, eget fermentum felis hendrerit. Integer euismod nec lacus id fermentum. Aliquam erat volutpat. Praesent eget est sit amet justo accumsan mollis. Pellentesque vitae elit tincidunt, efficitur enim sit amet, interdum mi.
 
