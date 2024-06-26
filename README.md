@@ -13,28 +13,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque leo 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque leo at dolor viverra, eget fermentum felis hendrerit. Integer euismod nec lacus id fermentum. Aliquam erat volutpat. Praesent eget est sit amet justo accumsan mollis. Pellentesque vitae elit tincidunt, efficitur enim sit amet, interdum mi.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%206%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2010%20mins-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-🌆 Daytime                190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-🌃 Evening                777 commits         █████████████░░░░░░░░░░░░   53.29 % 
-🌙 Night                  407 commits         ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   206 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Tuesday                  221 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Wednesday                303 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Thursday                 158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Friday                   182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Saturday                 88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Sunday                   300 commits         █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+🌞 Morning                84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+🌆 Daytime                190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+🌃 Evening                777 commits         █████████████░░░░░░░░░░░░   53.07 % 
+🌙 Night                  413 commits         ███████░░░░░░░░░░░░░░░░░░   28.21 % 
 ```
 
 
@@ -57,5 +44,4 @@ WSL                      26 mins             █████░░░░░░�
 ```
 
 
- Last Updated on 26/06/2024 22:56:58 UTC
 <!--END_SECTION:waka-->
