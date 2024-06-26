@@ -1,1 +1,1 @@
-[![Visits Badge](https://badges.pufler.dev/visits/Alextibtab/Alextibtab)](https://badges.pufler.dev)
+<img align="right" src="https://badges.pufler.dev/visits/Alextibtab/Alextibtab">
