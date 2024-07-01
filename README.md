@@ -46,4 +46,4 @@ Windows                  1 hr 48 mins        █████░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![Spotify](https://alextibtab.vercel.app/api/spotify)](https://open.spotify.com/user/alextibtab)
+[![Spotify](https://alextibtab.vercel.app/api/spotify)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
