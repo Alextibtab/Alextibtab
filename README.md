@@ -46,6 +46,6 @@ Windows                  1 hr 48 mins        █████░░░░░░�
 
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
-  [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
+  [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
 </div>
 
