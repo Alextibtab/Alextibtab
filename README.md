@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque leo 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque leo at dolor viverra, eget fermentum felis hendrerit. Integer euismod nec lacus id fermentum. Aliquam erat volutpat. Praesent eget est sit amet justo accumsan mollis. Pellentesque vitae elit tincidunt, efficitur enim sit amet, interdum mi.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2019%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -29,18 +29,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque leo 
 
 ```text
 💬 Programming Languages: 
-Lua                      3 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.85 % 
-Python                   1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Markdown                 1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-C++                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Makefile                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Lua                      3 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   36.14 % 
+Python                   2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+C++                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Makefile                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 28 mins      █████████████████████████   100.00 % 
+Neovim                   10 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      9 hrs 11 mins       ██████████████████████░░░   87.72 % 
-Windows                  1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+WSL                      8 hrs 7 mins        ████████████████████░░░░░   80.51 % 
+Windows                  1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
 ```
 
 
