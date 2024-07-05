@@ -6,11 +6,7 @@
 
 <h1 align="left">Hey, I'm Alex! 💽 </h1>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque leo at dolor viverra, eget fermentum felis hendrerit. Integer euismod nec lacus id fermentum. Aliquam erat volutpat. Praesent eget est sit amet justo accumsan mollis. Pellentesque vitae elit tincidunt, efficitur enim sit amet, interdum mi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque leo at dolor viverra, eget fermentum felis hendrerit. Integer euismod nec lacus id fermentum. Aliquam erat volutpat. Praesent eget est sit amet justo accumsan mollis. Pellentesque vitae elit tincidunt, efficitur enim sit amet, interdum mi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque leo at dolor viverra, eget fermentum felis hendrerit. Integer euismod nec lacus id fermentum. Aliquam erat volutpat. Praesent eget est sit amet justo accumsan mollis. Pellentesque vitae elit tincidunt, efficitur enim sit amet, interdum mi.
+Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2019%20mins-blue)
