@@ -9,15 +9,15 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2035%20mins-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-🌆 Daytime                185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-🌃 Evening                728 commits         █████████████░░░░░░░░░░░░   50.38 % 
-🌙 Night                  448 commits         ████████░░░░░░░░░░░░░░░░░   31.00 % 
+🌆 Daytime                185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+🌃 Evening                729 commits         █████████████░░░░░░░░░░░░   50.41 % 
+🌙 Night                  448 commits         ████████░░░░░░░░░░░░░░░░░   30.98 % 
 ```
 
 
