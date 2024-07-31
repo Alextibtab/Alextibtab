@@ -25,14 +25,13 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Rust                     45 mins             ███████████████████░░░░░░   75.66 % 
-Lua                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
