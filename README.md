@@ -9,7 +9,7 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2049%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -25,17 +25,17 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 33 mins       ███████████████████░░░░░░   74.53 % 
-gitconfig                22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Lua                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Python                   4 hrs 45 mins       ███████████████████░░░░░░   77.86 % 
+gitconfig                22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+TOML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Lua                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 46 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      4 hrs 46 mins       █████████████████████████   100.00 % 
+WSL                      6 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 
