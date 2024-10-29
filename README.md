@@ -9,7 +9,7 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2050%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -25,27 +25,28 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-hyprlang                 2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-TOML                     2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Desktop file             1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Other                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-C++                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+TOML                     2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+hyprlang                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Desktop file             1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+C++                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Other                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 
 🔥 Editors: 
-Neovim                   14 hrs 28 mins      █████████████████████████   100.00 % 
+Neovim                   14 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          12 hrs 28 mins      ██████████████████████░░░   86.10 % 
-xdg-desktop-portal-hyprla1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-dotfiles                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-xdg-desktop-portal-hyprla13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Unknown Project          11 hrs 5 mins       ████████████████████░░░░░   79.24 % 
+xdg-desktop-portal-hyprla1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+oppia                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+dotfiles                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+xdg-desktop-portal-hyprla13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 Operating System: 
-Linux                    14 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/10/2024 00:29:57 UTC
+ Last Updated on 29/10/2024 00:29:18 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
