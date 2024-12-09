@@ -11,8 +11,34 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2014%20mins-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 08/12/2024 00:33:23 UTC
+```text
+🌞 Morning                84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+🌆 Daytime                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+🌃 Evening                861 commits         █████████████░░░░░░░░░░░░   51.56 % 
+🌙 Night                  517 commits         ████████░░░░░░░░░░░░░░░░░   30.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 09/12/2024 00:32:25 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
