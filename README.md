@@ -9,8 +9,36 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2017%20mins-blue)
 
- Last Updated on 10/01/2025 00:29:42 UTC
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+🌆 Daytime                252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+🌃 Evening                915 commits         ████████████░░░░░░░░░░░░░   49.09 % 
+🌙 Night                  586 commits         ████████░░░░░░░░░░░░░░░░░   31.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 11/01/2025 00:28:37 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
