@@ -14,10 +14,10 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-🌆 Daytime                252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-🌃 Evening                917 commits         ████████████░░░░░░░░░░░░░   49.09 % 
-🌙 Night                  586 commits         ████████░░░░░░░░░░░░░░░░░   31.37 % 
+🌞 Morning                113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+🌆 Daytime                252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+🌃 Evening                917 commits         ████████████░░░░░░░░░░░░░   48.99 % 
+🌙 Night                  590 commits         ████████░░░░░░░░░░░░░░░░░   31.52 % 
 ```
 
 
@@ -38,7 +38,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/01/2025 00:31:53 UTC
+ Last Updated on 13/01/2025 00:30:48 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
