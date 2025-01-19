@@ -9,15 +9,15 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2025%20mins-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-🌆 Daytime                254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-🌃 Evening                926 commits         ████████████░░░░░░░░░░░░░   48.63 % 
-🌙 Night                  598 commits         ████████░░░░░░░░░░░░░░░░░   31.41 % 
+🌞 Morning                128 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+🌆 Daytime                254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+🌃 Evening                926 commits         ████████████░░░░░░░░░░░░░   48.58 % 
+🌙 Night                  598 commits         ████████░░░░░░░░░░░░░░░░░   31.37 % 
 ```
 
 
@@ -25,20 +25,21 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+openvpn                  7 mins              ████████████████████████░   97.13 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/01/2025 00:26:57 UTC
+ Last Updated on 19/01/2025 00:31:32 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
