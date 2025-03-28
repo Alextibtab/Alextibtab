@@ -9,8 +9,6 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%205%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -25,28 +23,20 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Groovy                   54 mins             ███████████████████░░░░░░   75.18 % 
-Java                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-INI                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-JSON5                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+TOML                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   1 hr 12 mins        █████████████████████████   100.00 % 
+Neovim                   0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-apoli                    22 mins             ████████░░░░░░░░░░░░░░░░░   31.79 % 
-origins-neoforge-1.21.1  20 mins             ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-origins                  12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-calio                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Unknown Project          0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 12 mins        █████████████████████████   100.00 % 
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/03/2025 00:29:39 UTC
+ Last Updated on 28/03/2025 00:29:54 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
