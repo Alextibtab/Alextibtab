@@ -9,15 +9,15 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2014%20mins-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-🌆 Daytime                292 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-🌃 Evening                957 commits         █████████████░░░░░░░░░░░░   53.08 % 
-🌙 Night                  400 commits         ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+🌞 Morning                154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+🌆 Daytime                294 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+🌃 Evening                957 commits         █████████████░░░░░░░░░░░░   53.02 % 
+🌙 Night                  400 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
 ```
 
 
@@ -25,20 +25,20 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+hyprlang                 8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/04/2025 00:56:00 UTC
+ Last Updated on 14/04/2025 00:32:23 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
