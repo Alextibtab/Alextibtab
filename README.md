@@ -9,15 +9,15 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2012%20mins-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-🌆 Daytime                298 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-🌃 Evening                963 commits         █████████████░░░░░░░░░░░░   53.06 % 
-🌙 Night                  400 commits         ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+🌞 Morning                154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+🌆 Daytime                290 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+🌃 Evening                941 commits         █████████████░░░░░░░░░░░░   53.10 % 
+🌙 Night                  387 commits         █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
 ```
 
 
@@ -25,21 +25,22 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-conf                     9 mins              █████████████████░░░░░░░░   66.47 % 
-hyprlang                 4 mins              ████████░░░░░░░░░░░░░░░░░   33.53 % 
+hyprlang                 1 hr 2 mins         ███████████████████░░░░░░   77.83 % 
+conf                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Python                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
 
 🔥 Editors: 
-Neovim                   14 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          14 mins             █████████████████████████   100.00 % 
+Unknown Project          1 hr 20 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/04/2025 00:30:53 UTC
+ Last Updated on 30/04/2025 00:31:06 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
