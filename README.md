@@ -9,8 +9,6 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2038%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -25,24 +23,24 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-hyprlang                 2 hrs 26 mins       ██████████████████████░░░   87.70 % 
-conf                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+hyprlang                 2 hrs 26 mins       ██████████████████████░░░   87.41 % 
+conf                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 46 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 46 mins       █████████████████████████   100.00 % 
+Unknown Project          2 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/05/2025 00:30:58 UTC
+ Last Updated on 03/05/2025 00:30:16 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
