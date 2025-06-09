@@ -9,7 +9,7 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2016%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -25,23 +25,25 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Bash                     8 mins              ████████████████████████░   97.95 % 
-hyprlang                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Desktop file             23 mins             ███████████████░░░░░░░░░░   59.58 % 
+Bash                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+Text                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+CSS                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 🔥 Editors: 
-Neovim                   8 mins              █████████████████████████   100.00 % 
+Neovim                   38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hellwal                  8 mins              ████████████████████████░   97.95 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Unknown Project          30 mins             ███████████████████░░░░░░   77.54 % 
+hellwal                  8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.00 % 
+Linux                    38 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/06/2025 00:35:55 UTC
+ Last Updated on 09/06/2025 00:34:46 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
