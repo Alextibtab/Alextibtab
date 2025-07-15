@@ -1,6 +1,6 @@
 <p align="right">
   <img src="https://badges.pufler.dev/visits/Alextibtab/Alextibtab" alt="Visits Badge">
-  <img src="https://badges.pufler.dev/repos/Alextibtab/" alt="Repos Badge">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAlextibtab&query=%24.public_repos&label=Repos" alt="Repos Badge">
   <img src="https://badges.pufler.dev/years/Alextibtab/" alt="Years Badge">
 </p>
 
