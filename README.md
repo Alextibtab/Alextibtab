@@ -1,5 +1,7 @@
 <p align="right">
+  <img src="https://github-badges-api-l4jk.vercel.app/api/visits/Alextibtab/Alextibtab" alt="Visits Badge">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAlextibtab&query=%24.public_repos&label=Repos" alt="Repos Badge">
+  <img src="https://github-badges-api-l4jk.vercel.app/api/years/Alextibtab" alt="Repos Badge">
 </p>
 
 <h1 align="left">Hey, I'm Alex! 💽 </h1>
