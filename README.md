@@ -9,8 +9,37 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2032%20mins-blue)
 
- Last Updated on 31/07/2025 00:34:48 UTC
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                156 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+🌆 Daytime                312 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+🌃 Evening                1019 commits        █████████████░░░░░░░░░░░░   52.55 % 
+🌙 Night                  452 commits         ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Text                     1 min               █████████████████░░░░░░░░   66.87 % 
+Python                   0 secs              ████████░░░░░░░░░░░░░░░░░   33.13 % 
+
+🔥 Editors: 
+Neovim                   2 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          2 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    2 mins              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 01/08/2025 00:39:27 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
