@@ -9,7 +9,7 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2036%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -25,23 +25,24 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-GLSL                     1 hr 3 mins         ██████████████░░░░░░░░░░░   55.27 % 
-C++                      38 mins             ████████░░░░░░░░░░░░░░░░░   33.85 % 
-CMake                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+C++                      1 hr 13 mins        ████████████░░░░░░░░░░░░░   48.59 % 
+GLSL                     1 hr 5 mins         ███████████░░░░░░░░░░░░░░   43.11 % 
+CMake                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Neovim                   1 hr 54 mins        █████████████████████████   100.00 % 
+Neovim                   2 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-clouds                   1 hr 54 mins        █████████████████████████   100.00 % 
+clouds                   2 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 54 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/09/2025 00:27:53 UTC
+ Last Updated on 14/09/2025 00:33:00 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
