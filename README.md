@@ -9,8 +9,40 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2015%20mins-blue)
 
- Last Updated on 20/09/2025 00:29:16 UTC
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+🌆 Daytime                318 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+🌃 Evening                1029 commits        █████████████░░░░░░░░░░░░   52.58 % 
+🌙 Night                  452 commits         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C++                      3 hrs 29 mins       ████████████████████████░   94.98 % 
+TOML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+GLSL                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Objective-C              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+
+🔥 Editors: 
+Neovim                   3 hrs 40 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+clouds                   3 hrs 33 mins       ████████████████████████░   97.07 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+
+💻 Operating System: 
+Linux                    3 hrs 40 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 21/09/2025 00:33:50 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
