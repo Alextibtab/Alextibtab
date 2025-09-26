@@ -25,21 +25,20 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-C++                      2 hrs 8 mins        █████████████████████████   99.03 % 
-Objective-C              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+C++                      1 hr 34 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 9 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 34 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-clouds                   2 hrs 9 mins        █████████████████████████   100.00 % 
+clouds                   1 hr 34 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 9 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/09/2025 00:31:03 UTC
+ Last Updated on 26/09/2025 00:30:15 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
