@@ -9,7 +9,7 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2019%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -25,24 +25,21 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-zsh                      4 mins              ██████████████████░░░░░░░   70.25 % 
-Bash                     1 min               ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-hyprlang                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Other                    20 mins             █████████████████████████   99.36 % 
+hyprlang                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-Neovim                   6 mins              █████████████████████████   100.00 % 
+Neovim                   20 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 mins              ████████████████████████░   96.97 % 
-oh-my-zsh                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Unknown Project          20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.00 % 
+Linux                    20 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/10/2025 00:34:38 UTC
+ Last Updated on 20/10/2025 00:33:39 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
