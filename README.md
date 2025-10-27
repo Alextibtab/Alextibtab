@@ -14,10 +14,10 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-🌆 Daytime                321 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-🌃 Evening                1033 commits        █████████████░░░░░░░░░░░░   52.49 % 
-🌙 Night                  454 commits         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+🌞 Morning                160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+🌆 Daytime                321 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+🌃 Evening                1031 commits        █████████████░░░░░░░░░░░░   52.44 % 
+🌙 Night                  454 commits         ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
 ```
 
 
@@ -25,20 +25,20 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Other                    20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 26/10/2025 00:33:53 UTC
+ Last Updated on 27/10/2025 00:34:34 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
