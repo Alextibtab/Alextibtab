@@ -9,8 +9,6 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2036%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -41,7 +39,7 @@ Linux                    16 mins             ███████████�
 ```
 
 
- Last Updated on 01/11/2025 00:34:38 UTC
+ Last Updated on 02/11/2025 00:34:19 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
