@@ -25,9 +25,8 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-hyprlang                 14 mins             ████████████████░░░░░░░░░   63.48 % 
-Lua                      8 mins              █████████░░░░░░░░░░░░░░░░   36.08 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+hyprlang                 14 mins             ████████████████░░░░░░░░░   63.76 % 
+Lua                      8 mins              █████████░░░░░░░░░░░░░░░░   36.24 % 
 
 🔥 Editors: 
 Neovim                   22 mins             █████████████████████████   100.00 % 
@@ -40,7 +39,7 @@ Linux                    22 mins             ███████████�
 ```
 
 
- Last Updated on 13/11/2025 00:32:53 UTC
+ Last Updated on 14/11/2025 00:33:07 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
