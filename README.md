@@ -14,10 +14,10 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-🌆 Daytime                321 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-🌃 Evening                1031 commits        █████████████░░░░░░░░░░░░   52.44 % 
-🌙 Night                  454 commits         ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+🌞 Morning                160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+🌆 Daytime                322 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+🌃 Evening                1031 commits        █████████████░░░░░░░░░░░░   52.41 % 
+🌙 Night                  454 commits         ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
 ```
 
 
@@ -25,21 +25,20 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-hyprlang                 14 mins             ████████████████░░░░░░░░░   63.76 % 
-Lua                      8 mins              █████████░░░░░░░░░░░░░░░░   36.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/11/2025 00:33:07 UTC
+ Last Updated on 15/11/2025 00:32:05 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
