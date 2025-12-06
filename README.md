@@ -25,24 +25,20 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-GLSL                     13 mins             █████████░░░░░░░░░░░░░░░░   36.68 % 
-zsh                      12 mins             ████████░░░░░░░░░░░░░░░░░   31.79 % 
-C++                      11 mins             ████████░░░░░░░░░░░░░░░░░   31.18 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-clouds                   25 mins             █████████████████░░░░░░░░   68.21 % 
-Unknown Project          12 mins             ████████░░░░░░░░░░░░░░░░░   31.79 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/12/2025 00:33:57 UTC
+ Last Updated on 06/12/2025 00:31:55 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
