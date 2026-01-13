@@ -9,7 +9,7 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2025%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -25,21 +25,25 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-hyprlang                 11 mins             ████████████████████░░░░░   81.81 % 
-JSON                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Groovy                   36 mins             █████████████░░░░░░░░░░░░   51.64 % 
+hyprlang                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Java                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Java Properties          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 🔥 Editors: 
-Neovim                   14 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr 11 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          14 mins             █████████████████████████   100.00 % 
+opac-bluemap-integration 48 mins             █████████████████░░░░░░░░   67.54 % 
+Unknown Project          23 mins             ████████░░░░░░░░░░░░░░░░░   32.46 % 
 
 💻 Operating System: 
-Linux                    14 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/01/2026 00:37:43 UTC
+ Last Updated on 13/01/2026 00:31:16 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
