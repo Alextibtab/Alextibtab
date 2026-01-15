@@ -9,7 +9,7 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2055%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -25,25 +25,25 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Groovy                   36 mins             ██████████░░░░░░░░░░░░░░░   41.61 % 
-Java                     23 mins             ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-hyprlang                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Java Properties          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Groovy                   36 mins             █████████░░░░░░░░░░░░░░░░   36.20 % 
+Java                     23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+hyprlang                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 
 🔥 Editors: 
-Neovim                   1 hr 28 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 41 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-opac-bluemap-integration 1 hr 5 mins         ██████████████████░░░░░░░   73.84 % 
-Unknown Project          23 mins             ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+opac-bluemap-integration 1 hr 5 mins         ████████████████░░░░░░░░░   64.24 % 
+Unknown Project          36 mins             █████████░░░░░░░░░░░░░░░░   35.76 % 
 
 💻 Operating System: 
-Linux                    1 hr 28 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/01/2026 00:36:11 UTC
+ Last Updated on 15/01/2026 00:32:38 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
