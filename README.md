@@ -9,7 +9,7 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2015%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -25,20 +25,28 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      47 mins             ███████████████░░░░░░░░░░   58.88 % 
+C++                      30 mins             █████████░░░░░░░░░░░░░░░░   37.61 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+hyprlang                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          47 mins             ███████████████░░░░░░░░░░   59.49 % 
+clouds                   24 mins             ████████░░░░░░░░░░░░░░░░░   30.96 % 
+voxel-engine             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+python-project-template  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+cxx-template             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/01/2026 00:34:49 UTC
+ Last Updated on 25/01/2026 00:39:37 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Spotify](https://spotify-now-playing-wine-six.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/pmo1v2ejnt42kgp5jar5drtag)
