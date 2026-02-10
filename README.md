@@ -43,6 +43,6 @@ Linux                    0 secs              ███████████�
  Last Updated on 10/02/2026 00:49:21 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
-  [![Tauon Now Playing](https://tauon-now-playing.alextibtab.deno.net/now-playing.svg)]
+  ![Tauon Now Playing](https://tauon-now-playing.alextibtab.deno.net/now-playing.svg)
 </div>
 
