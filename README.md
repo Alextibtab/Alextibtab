@@ -9,7 +9,7 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2020%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -25,25 +25,25 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Lua                      3 hrs 10 mins       ████████████████░░░░░░░░░   64.34 % 
-TypeScript               1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   32.90 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Lua                      3 hrs 10 mins       ████████████░░░░░░░░░░░░░   47.93 % 
+TypeScript               2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.54 % 
+HTML                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 55 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 10 mins       ████████████████░░░░░░░░░   64.34 % 
-tauon-now-playing        1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   35.66 % 
+tauon-now-playing        3 hrs 26 mins       █████████████░░░░░░░░░░░░   52.07 % 
+Unknown Project          3 hrs 10 mins       ████████████░░░░░░░░░░░░░   47.93 % 
 
 💻 Operating System: 
-Linux                    4 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/02/2026 00:43:28 UTC
+ Last Updated on 23/02/2026 00:43:28 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Tauon Now Playing](https://tauon-now-playing.alextibtab.deno.net/now-playing.svg)
