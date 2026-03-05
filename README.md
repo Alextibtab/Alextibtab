@@ -14,10 +14,10 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-🌆 Daytime                331 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-🌃 Evening                1046 commits        █████████████░░░░░░░░░░░░   51.88 % 
-🌙 Night                  477 commits         ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+🌞 Morning                162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+🌆 Daytime                332 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+🌃 Evening                1046 commits        █████████████░░░░░░░░░░░░   51.86 % 
+🌙 Night                  477 commits         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
 ```
 
 
@@ -25,25 +25,23 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 24 mins        ████████████████░░░░░░░░░   65.08 % 
-Bash                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-JSON                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+TypeScript               1 hr 24 mins        ████████████████░░░░░░░░░   65.25 % 
+Bash                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+JSON                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
 Neovim                   2 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tauon-now-playing        2 hrs 9 mins        █████████████████████████   99.74 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+tauon-now-playing        2 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Linux                    2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/03/2026 00:41:43 UTC
+ Last Updated on 05/03/2026 00:42:38 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Tauon Now Playing](https://tauon-now-playing.alextibtab.deno.net/tauon/now-playing.svg)
