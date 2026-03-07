@@ -14,10 +14,10 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-🌆 Daytime                332 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-🌃 Evening                1046 commits        █████████████░░░░░░░░░░░░   51.86 % 
-🌙 Night                  477 commits         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+🌞 Morning                162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+🌆 Daytime                340 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+🌃 Evening                1057 commits        █████████████░░░░░░░░░░░░   51.56 % 
+🌙 Night                  491 commits         ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
 ```
 
 
@@ -25,25 +25,25 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 24 mins        ████████████████░░░░░░░░░   65.20 % 
-Bash                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-JSON                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               39 mins             ████████████░░░░░░░░░░░░░   47.36 % 
+Bash                     22 mins             ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+JSON                     20 mins             ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 9 mins        █████████████████████████   99.93 % 
-OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Neovim                   1 hr 22 mins        █████████████████████████   99.89 % 
+OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-tauon-now-playing        2 hrs 9 mins        █████████████████████████   100.00 % 
+tauon-now-playing        1 hr 22 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 9 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/03/2026 00:45:40 UTC
+ Last Updated on 07/03/2026 00:40:41 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Tauon Now Playing](https://tauon-now-playing.alextibtab.deno.net/tauon/now-playing.svg)
