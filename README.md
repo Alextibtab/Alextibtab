@@ -47,6 +47,6 @@ Linux                    3 hrs 17 mins       ███████████�
  Last Updated on 09/03/2026 00:43:00 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
-  ![Tauon Now Playing](https://tauon-now-playing.alextibtab.deno.net/tauon/now-playing.svg)
+  ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
 </div>
 
