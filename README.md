@@ -25,27 +25,27 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 53 mins        ████████████░░░░░░░░░░░░░   49.26 % 
-HTML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-JavaScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+TypeScript               58 mins             ███████████░░░░░░░░░░░░░░   43.52 % 
+Markdown                 21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+JavaScript               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Bash                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
 
 🔥 Editors: 
-OpenCode                 2 hrs 44 mins       ██████████████████░░░░░░░   71.35 % 
-Neovim                   1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+OpenCode                 1 hr 26 mins        ████████████████░░░░░░░░░   63.91 % 
+Neovim                   48 mins             █████████░░░░░░░░░░░░░░░░   36.09 % 
 
 🐱‍💻 Projects: 
-tauon-now-playing        2 hrs 55 mins       ███████████████████░░░░░░   76.24 % 
-now-playing-card         32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Unknown Project          22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+tauon-now-playing        1 hr 27 mins        ████████████████░░░░░░░░░   64.82 % 
+now-playing-card         32 mins             ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+Unknown Project          14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
 
 💻 Operating System: 
-Linux                    3 hrs 50 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/03/2026 00:40:10 UTC
+ Last Updated on 15/03/2026 00:49:00 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
