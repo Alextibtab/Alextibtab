@@ -25,21 +25,21 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Markdown                 17 mins             ██████████████░░░░░░░░░░░   54.14 % 
-JSON                     15 mins             ███████████░░░░░░░░░░░░░░   45.86 % 
+Markdown                 17 mins             █████████████████░░░░░░░░   67.32 % 
+JSON                     8 mins              ████████░░░░░░░░░░░░░░░░░   32.68 % 
 
 🔥 Editors: 
-OpenCode                 32 mins             █████████████████████████   100.00 % 
+OpenCode                 26 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-now-playing-card         32 mins             █████████████████████████   100.00 % 
+now-playing-card         26 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    32 mins             █████████████████████████   100.00 % 
+Linux                    26 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/03/2026 00:41:07 UTC
+ Last Updated on 18/03/2026 00:44:48 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
