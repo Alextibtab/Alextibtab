@@ -25,21 +25,20 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-hyprlang                 0 secs              ███████████████░░░░░░░░░░   59.26 % 
-INI                      0 secs              ██████████░░░░░░░░░░░░░░░   40.74 % 
+C                        0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 Neovim                   0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              █████████████████████████   100.00 % 
+examples2                0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/04/2026 00:41:09 UTC
+ Last Updated on 10/04/2026 00:48:28 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
