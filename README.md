@@ -9,6 +9,8 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2022%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -23,26 +25,25 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 46 mins        ███████████████░░░░░░░░░░   61.32 % 
-JSON                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-CSS                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+JavaScript               1 hr 46 mins        █████████████████░░░░░░░░   67.78 % 
+JSON                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+CSS                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 
 🔥 Editors: 
-OpenCode                 2 hrs 34 mins       ██████████████████████░░░   89.46 % 
-Neovim                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+OpenCode                 2 hrs 34 mins       █████████████████████████   98.89 % 
+Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 36 mins       ███████████████████████░░   90.74 % 
-now-playing-card         16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Unknown Project          2 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 52 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/04/2026 00:53:58 UTC
+ Last Updated on 20/04/2026 00:53:29 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
