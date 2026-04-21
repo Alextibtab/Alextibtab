@@ -25,25 +25,24 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 46 mins        █████████████████░░░░░░░░   67.78 % 
-JSON                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-CSS                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+JavaScript               1 hr 46 mins        █████████████████░░░░░░░░   68.54 % 
+JSON                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+CSS                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 
 🔥 Editors: 
-OpenCode                 2 hrs 34 mins       █████████████████████████   98.89 % 
-Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+OpenCode                 2 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 36 mins       █████████████████████████   100.00 % 
+Unknown Project          2 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/04/2026 00:53:29 UTC
+ Last Updated on 21/04/2026 00:53:21 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
