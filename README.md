@@ -25,24 +25,22 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 46 mins        █████████████████░░░░░░░░   68.54 % 
-JSON                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-CSS                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+JavaScript               26 mins             █████████████████████████   100.00 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-OpenCode                 2 hrs 34 mins       █████████████████████████   100.00 % 
+OpenCode                 26 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 34 mins       █████████████████████████   100.00 % 
+Unknown Project          26 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    26 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/04/2026 00:54:52 UTC
+ Last Updated on 24/04/2026 00:55:38 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
