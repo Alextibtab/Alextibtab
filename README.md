@@ -9,7 +9,7 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%208%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -25,20 +25,25 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      19 mins             ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+Other                    18 mins             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+hyprlang                 18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+Bash                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   41 mins             ██████████████░░░░░░░░░░░   57.57 % 
+OpenCode                 30 mins             ███████████░░░░░░░░░░░░░░   42.43 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          42 mins             ███████████████░░░░░░░░░░   58.76 % 
+hypr                     29 mins             ██████████░░░░░░░░░░░░░░░   41.24 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/05/2026 01:03:26 UTC
+ Last Updated on 12/05/2026 00:58:06 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
