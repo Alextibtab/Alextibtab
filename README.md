@@ -9,8 +9,36 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2027%20mins-blue?style=flat)
 
- Last Updated on 18/05/2026 01:05:45 UTC
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+🌆 Daytime                332 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+🌃 Evening                1047 commits        █████████████░░░░░░░░░░░░   51.65 % 
+🌙 Night                  485 commits         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Neovim                   0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+now-playing-card         0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    0 secs              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 19/05/2026 01:06:12 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
