@@ -9,7 +9,7 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2025%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -25,20 +25,27 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+TypeScript               1 hr 1 min          █████████░░░░░░░░░░░░░░░░   34.28 % 
+HTML                     54 mins             ████████░░░░░░░░░░░░░░░░░   30.25 % 
+Other                    40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+hyprlang                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+OpenCode                 2 hrs 53 mins       ████████████████████████░   96.76 % 
+Neovim                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🐱‍💻 Projects: 
-now-playing-card         0 secs              █████████████████████████   100.00 % 
+Unknown Project          1 hr 49 mins        ███████████████░░░░░░░░░░   61.35 % 
+pmv-project              1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   38.52 % 
+now-playing-card         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    2 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/05/2026 01:07:47 UTC
+ Last Updated on 21/05/2026 01:08:13 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
