@@ -9,8 +9,6 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2026%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -25,29 +23,29 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 32 mins       ████████████████░░░░░░░░░   62.83 % 
-HTML                     3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+TypeScript               9 hrs 26 mins       █████████████████░░░░░░░░   67.67 % 
+HTML                     3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Python                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-OpenCode                 11 hrs 48 mins      █████████████████████████   98.53 % 
-Neovim                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+OpenCode                 13 hrs 41 mins      █████████████████████████   98.21 % 
+Neovim                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🐱‍💻 Projects: 
-Unknown Project          8 hrs 7 mins        █████████████████░░░░░░░░   67.69 % 
-pmv-project              2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-pmv-refactored           1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-now-playing-card         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Unknown Project          9 hrs 36 mins       █████████████████░░░░░░░░   68.87 % 
+pmv-project              2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+pmv-refactored           1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+now-playing-card         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 tibtab                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    11 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/05/2026 01:03:05 UTC
+ Last Updated on 24/05/2026 01:07:15 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
