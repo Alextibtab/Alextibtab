@@ -25,28 +25,27 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 25 mins       █████████████████░░░░░░░░   66.43 % 
+TypeScript               9 hrs 25 mins       █████████████████░░░░░░░░   66.44 % 
 HTML                     3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
 JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-OpenCode                 13 hrs 41 mins      ████████████████████████░   96.59 % 
-Neovim                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+OpenCode                 13 hrs 41 mins      ████████████████████████░   96.61 % 
+Neovim                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🐱‍💻 Projects: 
-Unknown Project          9 hrs 52 mins       █████████████████░░░░░░░░   69.63 % 
-pmv-project              2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Unknown Project          9 hrs 52 mins       █████████████████░░░░░░░░   69.64 % 
+pmv-project              2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
 pmv-refactored           1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-tibtab                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
 Linux                    14 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/05/2026 01:04:29 UTC
+ Last Updated on 27/05/2026 01:08:17 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
