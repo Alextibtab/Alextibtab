@@ -14,10 +14,10 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-🌆 Daytime                332 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-🌃 Evening                1047 commits        █████████████░░░░░░░░░░░░   51.65 % 
-🌙 Night                  485 commits         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+🌞 Morning                163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+🌆 Daytime                332 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+🌃 Evening                1047 commits        █████████████░░░░░░░░░░░░   51.70 % 
+🌙 Night                  483 commits         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
 ```
 
 
@@ -25,27 +25,27 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 25 mins       █████████████████░░░░░░░░   66.44 % 
-HTML                     3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+TypeScript               8 hrs 8 mins        ██████████████████░░░░░░░   72.66 % 
+HTML                     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-OpenCode                 13 hrs 41 mins      ████████████████████████░   96.61 % 
-Neovim                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+OpenCode                 10 hrs 48 mins      ████████████████████████░   96.53 % 
+Neovim                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🐱‍💻 Projects: 
-Unknown Project          9 hrs 52 mins       █████████████████░░░░░░░░   69.64 % 
-pmv-project              2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-pmv-refactored           1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Unknown Project          8 hrs 2 mins        ██████████████████░░░░░░░   71.82 % 
+pmv-refactored           1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+pmv-project              1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
 
 💻 Operating System: 
-Linux                    14 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/05/2026 01:08:17 UTC
+ Last Updated on 28/05/2026 01:01:06 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
