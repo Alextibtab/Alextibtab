@@ -9,8 +9,42 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2040%20mins-blue?style=flat)
 
- Last Updated on 29/05/2026 01:10:07 UTC
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+🌆 Daytime                332 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+🌃 Evening                1047 commits        █████████████░░░░░░░░░░░░   51.70 % 
+🌙 Night                  483 commits         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 55 mins        █████████████████████░░░░   85.71 % 
+Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+
+🔥 Editors: 
+OpenCode                 1 hr 23 mins        ████████████████░░░░░░░░░   62.37 % 
+Opencode Cli             30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Neovim                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+
+🐱‍💻 Projects: 
+Unknown Project          1 hr 45 mins        ████████████████████░░░░░   78.47 % 
+pmv-refactored           28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+
+💻 Operating System: 
+Linux                    2 hrs 14 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/05/2026 01:04:59 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
