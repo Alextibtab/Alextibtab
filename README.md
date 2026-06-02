@@ -9,7 +9,7 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2042%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -25,20 +25,25 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Other                    12 mins             █████████████████████████   100.00 % 
+Python                   23 mins             ██████████░░░░░░░░░░░░░░░   38.31 % 
+Markdown                 18 mins             ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+TOML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🔥 Editors: 
-Neovim                   12 mins             █████████████████████████   100.00 % 
+OpenCode                 1 hr 1 min          █████████████████████████   99.81 % 
+Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-Unknown Project          12 mins             █████████████████████████   100.00 % 
+odysseus                 1 hr 1 min          █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/06/2026 01:14:57 UTC
+ Last Updated on 02/06/2026 01:14:09 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
