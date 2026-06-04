@@ -11,8 +11,39 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2042%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 03/06/2026 01:20:09 UTC
+```text
+🌞 Morning                163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+🌆 Daytime                332 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+🌃 Evening                1047 commits        █████████████░░░░░░░░░░░░   51.70 % 
+🌙 Night                  483 commits         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   23 mins             ██████████░░░░░░░░░░░░░░░   38.31 % 
+Markdown                 18 mins             ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+TOML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+
+🔥 Editors: 
+OpenCode                 1 hr 1 min          █████████████████████████   99.81 % 
+Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+
+🐱‍💻 Projects: 
+odysseus                 1 hr 1 min          █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    1 hr 1 min          █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 04/06/2026 01:20:24 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
