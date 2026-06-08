@@ -9,15 +9,13 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2043%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-🌆 Daytime                332 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-🌃 Evening                1047 commits        █████████████░░░░░░░░░░░░   51.70 % 
-🌙 Night                  483 commits         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+🌆 Daytime                332 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+🌃 Evening                1047 commits        █████████████░░░░░░░░░░░░   51.68 % 
+🌙 Night                  484 commits         ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
 ```
 
 
@@ -25,27 +23,27 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-TOML                     34 mins             ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-Markdown                 31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-Python                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+TypeScript               1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   39.63 % 
+TOML                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Markdown                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Python                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 
 🔥 Editors: 
-OpenCode                 1 hr 47 mins        ██████████████████████░░░   86.96 % 
-Neovim                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+OpenCode                 3 hrs 13 mins       ███████████████████████░░   92.33 % 
+Neovim                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-odysseus                 1 hr 56 mins        ████████████████████████░   94.44 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+odysseus                 1 hr 56 mins        ██████████████░░░░░░░░░░░   55.57 % 
+Unknown Project          1 hr 32 mins        ███████████░░░░░░░░░░░░░░   44.43 % 
 
 💻 Operating System: 
-Linux                    2 hrs 3 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/06/2026 01:13:47 UTC
+ Last Updated on 08/06/2026 01:14:30 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
