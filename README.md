@@ -25,27 +25,26 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Lua                      1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-TypeScript               1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-JSON                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Bash                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-hyprlang                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Lua                      1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   30.15 % 
+TypeScript               1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+JSON                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+hyprlang                 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Bash                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 59 mins       █████████████░░░░░░░░░░░░   51.55 % 
-OpenCode                 2 hrs 48 mins       ████████████░░░░░░░░░░░░░   48.45 % 
+Neovim                   2 hrs 43 mins       ██████████████░░░░░░░░░░░   57.01 % 
+OpenCode                 2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.99 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 52 mins       █████████████████████░░░░   83.96 % 
-odysseus                 54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-voxel-engine             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Unknown Project          4 hrs 45 mins       █████████████████████████   99.50 % 
+voxel-engine             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Linux                    5 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/06/2026 01:12:32 UTC
+ Last Updated on 12/06/2026 01:16:00 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
