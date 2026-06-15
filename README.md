@@ -9,7 +9,7 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2040%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -25,26 +25,26 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Lua                      1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   30.15 % 
-TypeScript               1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-JSON                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-hyprlang                 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Bash                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Lua                      1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   41.07 % 
+JSON                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+hyprlang                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Bash                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+INI                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 43 mins       ██████████████░░░░░░░░░░░   57.01 % 
-OpenCode                 2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.99 % 
+Neovim                   2 hrs 53 mins       █████████████████████░░░░   82.26 % 
+OpenCode                 37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 45 mins       █████████████████████████   99.50 % 
-voxel-engine             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Unknown Project          3 hrs 29 mins       █████████████████████████   99.31 % 
+voxel-engine             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Linux                    4 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/06/2026 01:16:21 UTC
+ Last Updated on 15/06/2026 01:18:54 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
