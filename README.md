@@ -25,26 +25,26 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Lua                      1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   41.07 % 
-JSON                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-hyprlang                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Bash                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-INI                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Lua                      28 mins             ██████████░░░░░░░░░░░░░░░   40.24 % 
+Bash                     25 mins             █████████░░░░░░░░░░░░░░░░   36.29 % 
+INI                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Desktop file             5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+C++                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 53 mins       █████████████████████░░░░   82.26 % 
-OpenCode                 37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Neovim                   1 hr 3 mins         ███████████████████████░░   90.05 % 
+OpenCode                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 29 mins       █████████████████████████   99.31 % 
-voxel-engine             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Unknown Project          1 hr 9 mins         ████████████████████████░   97.95 % 
+voxel-engine             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 💻 Operating System: 
-Linux                    3 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/06/2026 01:18:54 UTC
+ Last Updated on 16/06/2026 01:20:53 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
