@@ -9,7 +9,7 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2010%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -25,26 +25,26 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Lua                      28 mins             ██████████░░░░░░░░░░░░░░░   40.24 % 
-Bash                     25 mins             █████████░░░░░░░░░░░░░░░░   36.29 % 
-INI                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Desktop file             5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-C++                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Rust                     25 mins             █████████░░░░░░░░░░░░░░░░   36.68 % 
+Bash                     25 mins             █████████░░░░░░░░░░░░░░░░   36.54 % 
+INI                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Desktop file             5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 🔥 Editors: 
-Neovim                   1 hr 3 mins         ███████████████████████░░   90.05 % 
-OpenCode                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Neovim                   41 mins             ███████████████░░░░░░░░░░   58.30 % 
+OpenCode                 29 mins             ██████████░░░░░░░░░░░░░░░   41.70 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 9 mins         ████████████████████████░   97.95 % 
-voxel-engine             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Unknown Project          41 mins             ███████████████░░░░░░░░░░   58.30 % 
+dns_fix                  29 mins             ██████████░░░░░░░░░░░░░░░   41.70 % 
 
 💻 Operating System: 
 Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/06/2026 01:20:53 UTC
+ Last Updated on 17/06/2026 01:16:10 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
