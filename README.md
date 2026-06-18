@@ -25,26 +25,24 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Rust                     25 mins             █████████░░░░░░░░░░░░░░░░   36.68 % 
-Bash                     25 mins             █████████░░░░░░░░░░░░░░░░   36.54 % 
-INI                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Desktop file             5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Rust                     25 mins             █████████████████░░░░░░░░   66.09 % 
+INI                      9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 
 🔥 Editors: 
-Neovim                   41 mins             ███████████████░░░░░░░░░░   58.30 % 
-OpenCode                 29 mins             ██████████░░░░░░░░░░░░░░░   41.70 % 
+OpenCode                 29 mins             ███████████████████░░░░░░   75.12 % 
+Neovim                   9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
 
 🐱‍💻 Projects: 
-Unknown Project          41 mins             ███████████████░░░░░░░░░░   58.30 % 
-dns_fix                  29 mins             ██████████░░░░░░░░░░░░░░░   41.70 % 
+dns_fix                  29 mins             ███████████████████░░░░░░   75.12 % 
+Unknown Project          9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
 
 💻 Operating System: 
-Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
+Linux                    39 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/06/2026 01:16:10 UTC
+ Last Updated on 18/06/2026 01:14:42 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
