@@ -25,24 +25,26 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Rust                     25 mins             █████████████████░░░░░░░░   66.09 % 
-INI                      9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Rust                     25 mins             ████████████████░░░░░░░░░   65.73 % 
+INI                      9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-OpenCode                 29 mins             ███████████████████░░░░░░   75.12 % 
-Neovim                   9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+OpenCode                 29 mins             ███████████████████░░░░░░   74.71 % 
+Neovim                   9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
 
 🐱‍💻 Projects: 
-dns_fix                  29 mins             ███████████████████░░░░░░   75.12 % 
-Unknown Project          9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+dns_fix                  29 mins             ███████████████████░░░░░░   74.71 % 
+Unknown Project          9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+lily58-wifi-view-firmware0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
 Linux                    39 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/06/2026 01:21:21 UTC
+ Last Updated on 20/06/2026 01:09:44 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
