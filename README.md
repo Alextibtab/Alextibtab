@@ -9,7 +9,7 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2036%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -25,26 +25,27 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Rust                     25 mins             ████████████████░░░░░░░░░   65.73 % 
-INI                      9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Rust                     25 mins             ████████████░░░░░░░░░░░░░   46.35 % 
+TOML                     14 mins             ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+YAML                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-OpenCode                 29 mins             ███████████████████░░░░░░   74.71 % 
-Neovim                   9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+OpenCode                 55 mins             █████████████████████████   99.61 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-dns_fix                  29 mins             ███████████████████░░░░░░   74.71 % 
-Unknown Project          9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-lily58-wifi-view-firmware0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+dns_fix                  29 mins             █████████████░░░░░░░░░░░░   52.68 % 
+odysseus                 26 mins             ████████████░░░░░░░░░░░░░   46.93 % 
+lily58-wifi-view-firmware0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Linux                    39 mins             █████████████████████████   100.00 % 
+Linux                    55 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/06/2026 01:18:03 UTC
+ Last Updated on 22/06/2026 01:18:02 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
