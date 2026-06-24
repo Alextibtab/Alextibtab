@@ -9,15 +9,15 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2042%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-🌆 Daytime                356 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-🌃 Evening                1085 commits        █████████████░░░░░░░░░░░░   50.54 % 
-🌙 Night                  543 commits         ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+🌞 Morning                163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+🌆 Daytime                332 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+🌃 Evening                1049 commits        █████████████░░░░░░░░░░░░   51.62 % 
+🌙 Night                  488 commits         ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
 ```
 
 
@@ -25,27 +25,27 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Rust                     25 mins             ████████████░░░░░░░░░░░░░   46.35 % 
-TOML                     14 mins             ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-YAML                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+TypeScript               26 mins             ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+YAML                     23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+JSON                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+TOML                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🔥 Editors: 
-OpenCode                 55 mins             █████████████████████████   99.61 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+OpenCode                 1 hr 9 mins         ███████████████████░░░░░░   74.75 % 
+Neovim                   23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
 
 🐱‍💻 Projects: 
-dns_fix                  29 mins             █████████████░░░░░░░░░░░░   52.68 % 
-odysseus                 26 mins             ████████████░░░░░░░░░░░░░   46.93 % 
-lily58-wifi-view-firmware0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+now-playing-card         1 hr 5 mins         ██████████████████░░░░░░░   71.46 % 
+odysseus                 26 mins             ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+lily58-wifi-view-firmware0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Linux                    55 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/06/2026 01:05:26 UTC
+ Last Updated on 24/06/2026 01:03:06 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   ![Currently Playing](https://now-playing.alextibtab.deno.net/tauon/now-playing.svg)
