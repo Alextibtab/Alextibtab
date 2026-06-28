@@ -47,6 +47,6 @@ Linux                    4 hrs 20 mins       ███████████�
  Last Updated on 27/06/2026 01:05:55 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
-  ![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)
+  [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/spotify/listen)
 </div>
 
