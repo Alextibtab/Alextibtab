@@ -9,7 +9,7 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2036%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -25,27 +25,27 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.28 % 
-Markdown                 1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-YAML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-CSS                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+TypeScript               2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.15 % 
+Markdown                 1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+CSS                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 🔥 Editors: 
-OpenCode                 6 hrs 59 mins       ████████████████████░░░░░   79.35 % 
-Neovim                   1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+OpenCode                 6 hrs 16 mins       ████████████████████░░░░░   79.43 % 
+Neovim                   1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
 
 🐱‍💻 Projects: 
-now-playing-card         7 hrs 20 mins       █████████████████████░░░░   83.43 % 
-wiki                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Unknown Project          34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+now-playing-card         6 hrs 22 mins       ████████████████████░░░░░   80.67 % 
+wiki                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Unknown Project          38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 
 💻 Operating System: 
-Linux                    8 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/06/2026 01:06:54 UTC
+ Last Updated on 01/07/2026 01:12:10 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/spotify/listen)
