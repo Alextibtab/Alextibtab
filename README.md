@@ -25,27 +25,27 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.94 % 
-Markdown                 1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-CSS                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-JavaScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+TypeScript               2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.98 % 
+Markdown                 1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+CSS                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 
 🔥 Editors: 
-OpenCode                 6 hrs 10 mins       ████████████████████░░░░░   78.20 % 
-Neovim                   1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+OpenCode                 4 hrs 37 mins       ███████████████████░░░░░░   74.01 % 
+Neovim                   1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
 
 🐱‍💻 Projects: 
-now-playing-card         6 hrs 16 mins       ████████████████████░░░░░   79.44 % 
-wiki                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Unknown Project          44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+now-playing-card         4 hrs 36 mins       ██████████████████░░░░░░░   73.96 % 
+wiki                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Unknown Project          44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 
 💻 Operating System: 
-Linux                    7 hrs 54 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/07/2026 01:07:31 UTC
+ Last Updated on 03/07/2026 00:53:35 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/spotify/listen)
