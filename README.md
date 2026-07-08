@@ -25,22 +25,20 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Lua                      9 mins              ██████████████░░░░░░░░░░░   57.27 % 
-TypeScript               7 mins              ███████████░░░░░░░░░░░░░░   42.73 % 
+Lua                      5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   17 mins             █████████████████████████   100.00 % 
+Neovim                   5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          9 mins              ██████████████░░░░░░░░░░░   57.27 % 
-now-playing-card         7 mins              ███████████░░░░░░░░░░░░░░   42.73 % 
+Unknown Project          5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 mins             █████████████████████████   100.00 % 
+Linux                    5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/07/2026 00:56:00 UTC
+ Last Updated on 08/07/2026 00:47:57 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/spotify/listen)
