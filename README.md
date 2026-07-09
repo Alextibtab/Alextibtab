@@ -25,20 +25,20 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Lua                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/07/2026 00:47:57 UTC
+ Last Updated on 09/07/2026 00:51:57 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/spotify/listen)
