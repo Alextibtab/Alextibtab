@@ -16,8 +16,8 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 ```text
 🌞 Morning                163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 🌆 Daytime                376 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-🌃 Evening                1210 commits        █████████████░░░░░░░░░░░░   52.56 % 
-🌙 Night                  553 commits         ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+🌃 Evening                1211 commits        █████████████░░░░░░░░░░░░   52.58 % 
+🌙 Night                  553 commits         ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
 ```
 
 
@@ -25,20 +25,23 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Lua                      5 mins              █████████████████████████   100.00 % 
+Lua                      5 mins              ███████████████████████░░   93.09 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-Neovim                   5 mins              █████████████████████████   100.00 % 
+Neovim                   6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 mins              █████████████████████████   100.00 % 
+Unknown Project          5 mins              ███████████████████████░░   93.09 % 
+under-the-mountain14     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.00 % 
+Linux                    6 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/07/2026 00:47:21 UTC
+ Last Updated on 22/07/2026 00:46:22 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/lastfm/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
