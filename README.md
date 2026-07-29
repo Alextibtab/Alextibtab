@@ -9,17 +9,13 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2019%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-🌆 Daytime                376 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-🌃 Evening                1221 commits        █████████████░░░░░░░░░░░░   52.77 % 
-🌙 Night                  553 commits         ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+🌞 Morning                164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+🌆 Daytime                377 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+🌃 Evening                1221 commits        █████████████░░░░░░░░░░░░   52.74 % 
+🌙 Night                  553 commits         ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
 ```
 
 
@@ -27,14 +23,14 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Markdown                 0 secs              ████████████████████░░░░░   80.00 % 
-Text                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+INI                      0 secs              █████████████████░░░░░░░░   66.67 % 
+Lua                      0 secs              ████████░░░░░░░░░░░░░░░░░   33.33 % 
 
 🔥 Editors: 
 Neovim                   0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-under-the-mountain14     0 secs              █████████████████████████   100.00 % 
+Unknown Project          0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Linux                    0 secs              █████████████████████████   100.00 % 
@@ -47,7 +43,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/07/2026 00:45:36 UTC
+ Last Updated on 29/07/2026 00:44:46 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/lastfm/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
