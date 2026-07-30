@@ -9,13 +9,17 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2020%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-🌆 Daytime                377 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-🌃 Evening                1221 commits        █████████████░░░░░░░░░░░░   52.74 % 
-🌙 Night                  553 commits         ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+🌆 Daytime                378 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+🌃 Evening                1221 commits        █████████████░░░░░░░░░░░░   52.72 % 
+🌙 Night                  553 commits         ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
 ```
 
 
@@ -43,7 +47,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/07/2026 00:44:46 UTC
+ Last Updated on 30/07/2026 00:44:02 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/lastfm/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
