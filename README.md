@@ -9,9 +9,9 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -27,31 +27,50 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Python                   28 mins             ████████████████░░░░░░░░░   65.08 % 
-Text                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Lua                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-conf                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Python                   1 hr 16 mins        █████████████░░░░░░░░░░░░   51.07 % 
+C                        32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Other                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-Neovim                   43 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr 25 mins        ██████████████░░░░░░░░░░░   57.02 % 
+OpenCode                 1 hr 4 mins         ███████████░░░░░░░░░░░░░░   42.98 % 
 
 🐱‍💻 Projects: 
-hello-busy               28 mins             ████████████████░░░░░░░░░   65.08 % 
-Unknown Project          15 mins             █████████░░░░░░░░░░░░░░░░   34.92 % 
+hello-busy               1 hr 8 mins         ███████████░░░░░░░░░░░░░░   45.38 % 
+busybar-firmware         1 hr                ██████████░░░░░░░░░░░░░░░   40.53 % 
+Unknown Project          15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+fbtng                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 💻 Operating System: 
-Linux                    43 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 4 mins (42.98%)
+
+✍️ 2 lines written by AI, 62 lines written by hand (3.12% AI-written)
+
+🔤 244,992 Input Tokens, 34,566 Output Tokens
+
+💵 $1.15 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 15 AI Prompts
+
+Glm                      7 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 3.12% of written lines came from AI
+📝 Concise Prompter — average 152 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 88.75% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/08/2026 01:58:20 UTC
+ Last Updated on 09/08/2026 02:07:02 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/lastfm/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
