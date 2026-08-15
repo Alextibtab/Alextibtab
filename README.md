@@ -17,9 +17,9 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 🌞 Morning                164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-🌆 Daytime                380 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-🌃 Evening                1226 commits        █████████████░░░░░░░░░░░░   52.73 % 
-🌙 Night                  555 commits         ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+🌆 Daytime                381 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+🌃 Evening                1226 commits        █████████████░░░░░░░░░░░░   52.71 % 
+🌙 Night                  555 commits         ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
 ```
 
 
@@ -27,31 +27,31 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 16 mins        ██████████████░░░░░░░░░░░   56.85 % 
-C                        32 mins             ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-Other                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Python                   48 mins             ███████████░░░░░░░░░░░░░░   45.30 % 
+C                        32 mins             ████████░░░░░░░░░░░░░░░░░   30.66 % 
+Other                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
-Neovim                   1 hr 10 mins        █████████████░░░░░░░░░░░░   52.15 % 
-OpenCode                 1 hr 4 mins         ████████████░░░░░░░░░░░░░   47.85 % 
+OpenCode                 1 hr 4 mins         ███████████████░░░░░░░░░░   60.66 % 
+Neovim                   41 mins             ██████████░░░░░░░░░░░░░░░   39.34 % 
 
 🐱‍💻 Projects: 
-hello-busy               1 hr 8 mins         █████████████░░░░░░░░░░░░   50.52 % 
-busybar-firmware         1 hr                ███████████░░░░░░░░░░░░░░   45.12 % 
-fbtng                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+busybar-firmware         1 hr                ██████████████░░░░░░░░░░░   57.20 % 
+hello-busy               39 mins             █████████░░░░░░░░░░░░░░░░   37.28 % 
+fbtng                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 💻 Operating System: 
-Linux                    2 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 4 mins (47.85%)
+⏱ AI Coding Time: 1 hr 4 mins (60.66%)
 
-✍️ 2 lines written by AI, 60 lines written by hand (3.23% AI-written)
+✍️ 2 lines written by AI, 31 lines written by hand (6.06% AI-written)
 
 🔤 244,992 Input Tokens, 34,566 Output Tokens
 
@@ -62,14 +62,14 @@ Linux                    2 hrs 14 mins       ███████████�
 Glm                      7 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.23% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 6.06% of written lines came from AI
 📝 Concise Prompter — average 152 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 88.46% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 80.85% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/08/2026 02:22:46 UTC
+ Last Updated on 15/08/2026 01:30:47 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/lastfm/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
