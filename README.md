@@ -9,9 +9,9 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2056%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -27,45 +27,52 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 21 mins        █████████████████████████   100.00 % 
+Python                   1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   35.18 % 
+JSON                     1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+QML                      42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 🔥 Editors: 
-OpenCode                 1 hr 19 mins        ████████████████████████░   97.64 % 
-Opencode Cli             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+OpenCode                 1 hr 57 mins        █████████████░░░░░░░░░░░░   50.50 % 
+Opencode Cli             1 hr 45 mins        ███████████░░░░░░░░░░░░░░   45.41 % 
+Neovim                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🐱‍💻 Projects: 
-tor3                     1 hr 4 mins         ████████████████████░░░░░   78.43 % 
-Unknown Project          17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+tibtab                   2 hrs 11 mins       ██████████████░░░░░░░░░░░   56.62 % 
+tor3                     1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+Unknown Project          36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 
 💻 Operating System: 
-Linux                    1 hr 21 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 21 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 52 mins (99.66%)
 
-✍️ 1,515 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,894 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 936,275 Input Tokens, 150,242 Output Tokens
+🔤 4,550,239 Input Tokens, 426,818 Output Tokens
 
-💵 $71.66 Estimated AI Cost This Week
+💵 $120.91 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 25 AI Prompts
+🧠 3 AI Sessions, 51 AI Prompts
 
-Glm                      1,327 lines         ██████████████████████░░░   88.06 % 
-Opus                     180 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Opus                     2,388 lines         ████████████████░░░░░░░░░   62.66 % 
+Glm                      1,327 lines         █████████░░░░░░░░░░░░░░░░   34.82 % 
+Opencode-Cli             96 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 218 characters per prompt
-🔁 Iterative Prompter — average 25 prompts per session
+📝 Concise Prompter — average 217 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/08/2026 01:39:59 UTC
+ Last Updated on 18/08/2026 01:30:00 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/lastfm/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
