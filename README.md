@@ -41,8 +41,7 @@ Neovim                   52 mins             ██░░░░░░░░░�
 🐱‍💻 Projects: 
 quickshell               4 hrs 38 mins       ███████████░░░░░░░░░░░░░░   42.72 % 
 Unknown Project          2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-tibtab                   2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-tor3                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+tibtab                   2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.70 %  
 
 💻 Operating System: 
 Linux                    10 hrs 51 mins      █████████████████████████   100.00 % 
