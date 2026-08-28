@@ -79,6 +79,6 @@ Opus                     0 lines             ░░░░░░░░░░░�
  Last Updated on 28/08/2026 10:47:28 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
-  [![Currently Playing](https://now-playing.alextibtab.deno.net/lastfm/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
+  [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
 </div>
 
