@@ -9,9 +9,9 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%2025%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -27,56 +27,56 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Rust                     14 hrs 9 mins       ███████████████░░░░░░░░░░   59.85 % 
-QML                      3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Bash                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Other                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-TOML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Rust                     15 hrs 12 mins      ███████████████░░░░░░░░░░   61.12 % 
+QML                      3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Bash                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Other                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+TOML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔥 Editors: 
-OpenCode                 21 hrs 12 mins      ██████████████████████░░░   89.63 % 
-Opencode Cli             1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Neovim                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+OpenCode                 22 hrs 25 mins      ███████████████████████░░   90.14 % 
+Opencode Cli             1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Neovim                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🐱‍💻 Projects: 
-anime-tui                11 hrs 32 mins      ████████████░░░░░░░░░░░░░   48.77 % 
-tiktok-tui               3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-quickshell               3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-jerry                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Unknown Project          1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+anime-tui                16 hrs 26 mins      █████████████████░░░░░░░░   66.06 % 
+quickshell               3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+jerry                    1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Unknown Project          1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+anime-cli                49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 💻 Operating System: 
-Linux                    23 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 24 mins (98.95%)
+⏱ AI Coding Time: 24 hrs 37 mins (99.0%)
 
-✍️ 15,763 lines written by AI, 33 lines written by hand (99.79% AI-written)
+✍️ 14,515 lines written by AI, 33 lines written by hand (99.77% AI-written)
 
-🔤 7,110,994 Input Tokens, 1,492,769 Output Tokens
+🔤 9,048,849 Input Tokens, 1,380,316 Output Tokens
 
-💵 $1241.96 Estimated AI Cost This Week
+💵 $1259.05 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 213 AI Prompts
+🧠 30 AI Sessions, 198 AI Prompts
 
-Glm                      7,722 lines         ████████████████░░░░░░░░░   63.23 % 
-Deepseek                 4,102 lines         ████████░░░░░░░░░░░░░░░░░   33.59 % 
-GPT                      389 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Glm                      9,315 lines         █████████████████████░░░░   84.75 % 
+Deepseek                 1,287 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+GPT                      389 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📝 Concise Prompter — average 208 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+🤖 AI-Driven — 99.77% of written lines came from AI
+📝 Concise Prompter — average 212 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.21% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/08/2026 04:50:34 UTC
+ Last Updated on 01/09/2026 04:30:32 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
