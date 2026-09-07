@@ -9,9 +9,9 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2039%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -27,50 +27,50 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Rust                     15 hrs 37 mins      ███████████████░░░░░░░░░░   61.49 % 
-Astro                    4 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Python                   2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-TOML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-TypeScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Astro                    6 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   33.32 % 
+Python                   5 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+Rust                     4 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+TypeScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+C#                       31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-OpenCode                 25 hrs 24 mins      █████████████████████████   100.00 % 
+OpenCode                 20 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-anime-tui                16 hrs 54 mins      █████████████████░░░░░░░░   66.55 % 
-dota2-report             5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-Unknown Project          1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-trackmania               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-jerry                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+dota2-report             10 hrs 21 mins      █████████████░░░░░░░░░░░░   50.17 % 
+anime-tui                5 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+Unknown Project          3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+trackmania               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+video                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 💻 Operating System: 
-Linux                    25 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 24 mins (100.0%)
+⏱ AI Coding Time: 20 hrs 38 mins (100.0%)
 
-✍️ 17,276 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,391 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 12,343,481 Input Tokens, 1,185,938 Output Tokens
+🔤 18,815,812 Input Tokens, 848,627 Output Tokens
 
-💵 $1408.78 Estimated AI Cost This Week
+💵 $1256.42 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 163 AI Prompts
+🧠 22 AI Sessions, 192 AI Prompts
 
-Glm                      12,177 lines        █████████████████████████   100.00 % 
+Glm                      7,602 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 271 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 220 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/09/2026 03:56:34 UTC
+ Last Updated on 07/09/2026 03:55:34 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
