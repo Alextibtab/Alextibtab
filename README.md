@@ -9,9 +9,9 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-106%20hrs%2045%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -27,51 +27,51 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Astro                    7 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.11 % 
-Python                   5 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.48 % 
-TypeScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-C#                       31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Astro                    9 hrs 28 mins       ███████████░░░░░░░░░░░░░░   43.36 % 
+Python                   8 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
+TypeScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+C#                       31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-OpenCode                 16 hrs 2 mins       █████████████████████████   99.21 % 
-Neovim                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+OpenCode                 21 hrs 43 mins      █████████████████████████   99.41 % 
+Neovim                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🐱‍💻 Projects: 
-dota2-report             10 hrs 40 mins      ████████████████░░░░░░░░░   65.99 % 
-Unknown Project          3 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-anime-tui                28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-trackmania               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-video                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+dota2-report             16 hrs 14 mins      ███████████████████░░░░░░   74.34 % 
+Unknown Project          4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+trackmania               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+video                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+tibtab                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 💻 Operating System: 
-Linux                    16 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 10 mins (100.0%)
+⏱ AI Coding Time: 21 hrs 51 mins (100.0%)
 
-✍️ 7,231 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 8,183 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 19,051,607 Input Tokens, 623,380 Output Tokens
+🔤 34,139,025 Input Tokens, 953,608 Output Tokens
 
-💵 $967.84 Estimated AI Cost This Week
+💵 $1582.23 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 179 AI Prompts
+🧠 19 AI Sessions, 234 AI Prompts
 
-Glm                      6,518 lines         █████████████████████████   100.00 % 
+Glm                      7,189 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 221 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 213 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 04:03:58 UTC
+ Last Updated on 10/09/2026 04:03:20 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
