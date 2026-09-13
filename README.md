@@ -9,6 +9,10 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2041%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs%2034%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -23,51 +27,53 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Astro                    10 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
-Python                   9 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.70 % 
-QML                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Other                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-TypeScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Astro                    9 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   36.94 % 
+Python                   8 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.00 % 
+QML                      2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Other                    1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+TypeScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-OpenCode                 24 hrs 29 mins      █████████████████████████   99.48 % 
-Neovim                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+OpenCode                 26 hrs 10 mins      █████████████████████████   98.37 % 
+Neovim                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🐱‍💻 Projects: 
-dota2-report             16 hrs 54 mins      █████████████████░░░░░░░░   68.63 % 
-Unknown Project          5 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-quickshell               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-tibtab                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-video                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+dota2-report             16 hrs 12 mins      ███████████████░░░░░░░░░░   60.93 % 
+Unknown Project          5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+quickshell               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+fanza-tui                1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+tibtab                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 💻 Operating System: 
-Linux                    24 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 37 mins (100.0%)
+⏱ AI Coding Time: 26 hrs 22 mins (99.15%)
 
-✍️ 9,114 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,323 lines written by AI, 2 lines written by hand (99.97% AI-written)
 
-🔤 37,786,996 Input Tokens, 1,192,326 Output Tokens
+🔤 38,760,266 Input Tokens, 1,239,142 Output Tokens
 
-💵 $1792.58 Estimated AI Cost This Week
+💵 $1856.95 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 261 AI Prompts
+🧠 22 AI Sessions, 280 AI Prompts
 
-Glm                      6,794 lines         █████████████████████████   100.00 % 
+Glm                      5,233 lines         █████████████████████████   99.90 % 
+Opencode-Cli             5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 216 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📝 Concise Prompter — average 202 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/09/2026 04:02:07 UTC
+ Last Updated on 13/09/2026 01:04:10 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
