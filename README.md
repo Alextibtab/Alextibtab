@@ -27,53 +27,53 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   33.65 % 
-Astro                    6 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-QML                      2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-TypeScript               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Other                    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+JSON                     5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.01 % 
+Python                   2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Astro                    2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+QML                      2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+TypeScript               1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
 
 🔥 Editors: 
-OpenCode                 21 hrs 46 mins      ████████████████████████░   97.46 % 
-Neovim                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+OpenCode                 16 hrs 29 mins      ████████████████████████░   96.70 % 
+Neovim                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🐱‍💻 Projects: 
-dota2-report             11 hrs 35 mins      █████████████░░░░░░░░░░░░   51.90 % 
-Unknown Project          4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-quickshell               2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-tibtab                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-fanza-tui                1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+dota2-report             8 hrs 45 mins       █████████████░░░░░░░░░░░░   51.40 % 
+Unknown Project          2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+quickshell               2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+tibtab                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+fanza-tui                1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 
 💻 Operating System: 
-Linux                    22 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 6 mins (98.96%)
+⏱ AI Coding Time: 16 hrs 49 mins (98.65%)
 
-✍️ 12,878 lines written by AI, 1,857 lines written by hand (87.4% AI-written)
+✍️ 11,912 lines written by AI, 1,857 lines written by hand (86.51% AI-written)
 
-🔤 35,512,850 Input Tokens, 1,647,180 Output Tokens
+🔤 50,503,003 Input Tokens, 2,012,479 Output Tokens
 
-💵 $1435.23 Estimated AI Cost This Week
+💵 $2650.76 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 277 AI Prompts
+🧠 24 AI Sessions, 198 AI Prompts
 
-Spark                    7,986 lines         █████████████████░░░░░░░░   67.61 % 
-Glm                      3,820 lines         ████████░░░░░░░░░░░░░░░░░   32.34 % 
-Opencode-Cli             5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Spark                    8,203 lines         ███████████████████░░░░░░   74.29 % 
+Glm                      2,834 lines         ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+Opencode-Cli             5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.4% of written lines came from AI
-📝 Concise Prompter — average 187 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 11.58% of changed lines were hand-edited
+🤖 AI-Driven — 86.51% of written lines came from AI
+📝 Concise Prompter — average 185 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 12.48% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/09/2026 04:11:18 UTC
+ Last Updated on 14/09/2026 04:19:22 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
