@@ -27,53 +27,49 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-QML                      1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Rust                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Python                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Astro                    54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Python                   54 mins             ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+Astro                    54 mins             ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+Other                    28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+TypeScript               26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 
 🔥 Editors: 
-OpenCode                 7 hrs 46 mins       ████████████████████████░   94.67 % 
-Neovim                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+OpenCode                 3 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dota2-report             3 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.94 % 
-Unknown Project          1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-fanza-tui                1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-quickshell               59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-steampunk                57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+dota2-report             2 hrs 43 mins       ███████████████████████░░   91.00 % 
+tibtab                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 59 mins (97.19%)
+⏱ AI Coding Time: 2 hrs 59 mins (100.0%)
 
-✍️ 10,073 lines written by AI, 1,857 lines written by hand (84.43% AI-written)
+✍️ 1,066 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,486,457 Input Tokens, 961,096 Output Tokens
+🔤 2,816,500 Input Tokens, 145,468 Output Tokens
 
-💵 $910.67 Estimated AI Cost This Week
+💵 $418.58 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 110 AI Prompts
+🧠 4 AI Sessions, 36 AI Prompts
 
-Spark                    8,203 lines         █████████████████████░░░░   83.13 % 
-Glm                      1,660 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Opencode-Cli             5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Spark                    725 lines           █████████████░░░░░░░░░░░░   50.35 % 
+Glm                      715 lines           ████████████░░░░░░░░░░░░░   49.65 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.43% of written lines came from AI
-📝 Concise Prompter — average 178 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 14.39% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 163 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/09/2026 04:03:25 UTC
+ Last Updated on 20/09/2026 04:21:51 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
