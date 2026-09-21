@@ -27,49 +27,49 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Python                   54 mins             ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-Astro                    54 mins             ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-Other                    28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-TypeScript               26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Other                    28 mins             ████████░░░░░░░░░░░░░░░░░   31.43 % 
+TypeScript               26 mins             ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+Python                   23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+Astro                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-OpenCode                 3 hrs               █████████████████████████   100.00 % 
+OpenCode                 1 hr 23 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dota2-report             2 hrs 43 mins       ███████████████████████░░   91.00 % 
-tibtab                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+dota2-report             1 hr 6 mins         ████████████████████░░░░░   80.46 % 
+tibtab                   16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
 
 💻 Operating System: 
-Linux                    2 hrs 59 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 59 mins (100.0%)
+⏱ AI Coding Time: 1 hr 22 mins (100.0%)
 
-✍️ 1,066 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 334 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,816,500 Input Tokens, 145,468 Output Tokens
+🔤 1,167,309 Input Tokens, 68,653 Output Tokens
 
-💵 $418.58 Estimated AI Cost This Week
+💵 $313.52 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 36 AI Prompts
+🧠 3 AI Sessions, 16 AI Prompts
 
-Spark                    725 lines           █████████████░░░░░░░░░░░░   50.35 % 
-Glm                      715 lines           ████████████░░░░░░░░░░░░░   49.65 % 
+Glm                      601 lines           █████████████░░░░░░░░░░░░   50.46 % 
+Spark                    590 lines           ████████████░░░░░░░░░░░░░   49.54 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 163 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 175 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/09/2026 04:21:51 UTC
+ Last Updated on 21/09/2026 04:19:00 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
