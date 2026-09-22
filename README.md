@@ -27,49 +27,50 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Other                    28 mins             ████████░░░░░░░░░░░░░░░░░   31.43 % 
-TypeScript               26 mins             ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-Python                   23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-Astro                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+TypeScript               26 mins             ███████░░░░░░░░░░░░░░░░░░   26.74 % 
+QML                      24 mins             ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+Python                   23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+Astro                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Lua                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🔥 Editors: 
-OpenCode                 1 hr 23 mins        █████████████████████████   100.00 % 
+OpenCode                 1 hr 34 mins        ████████████████████████░   96.74 % 
+Neovim                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🐱‍💻 Projects: 
-dota2-report             1 hr 6 mins         ████████████████████░░░░░   80.46 % 
-tibtab                   16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+dota2-report             1 hr 6 mins         █████████████████░░░░░░░░   68.31 % 
+Unknown Project          28 mins             ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+BlueMapOfflinePlayerMarke2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+tibtab                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Linux                    1 hr 22 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 22 mins (100.0%)
+⏱ AI Coding Time: 1 hr 34 mins (96.74%)
 
-✍️ 334 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 409 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,167,309 Input Tokens, 68,653 Output Tokens
+🔤 1,068,382 Input Tokens, 47,249 Output Tokens
 
-💵 $313.52 Estimated AI Cost This Week
+💵 $23.53 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 16 AI Prompts
+🧠 2 AI Sessions, 13 AI Prompts
 
-Glm                      601 lines           █████████████░░░░░░░░░░░░   50.46 % 
-Spark                    590 lines           ████████████░░░░░░░░░░░░░   49.54 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Glm                      352 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 175 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 194 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/09/2026 04:19:00 UTC
+ Last Updated on 22/09/2026 04:15:35 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
