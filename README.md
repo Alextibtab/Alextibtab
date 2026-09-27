@@ -9,9 +9,9 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-124%20hrs%2046%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -27,52 +27,52 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Lua                      39 mins             ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-Java                     25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-QML                      24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Bash                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Lua                      39 mins             ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+Java                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+QML                      24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Bash                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 
 🔥 Editors: 
-OpenCode                 1 hr 40 mins        ██████████████████░░░░░░░   72.24 % 
-Neovim                   38 mins             ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+OpenCode                 1 hr 45 mins        ██████████████████░░░░░░░   73.25 % 
+Neovim                   38 mins             ███████░░░░░░░░░░░░░░░░░░   26.75 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 8 mins         ████████████░░░░░░░░░░░░░   49.07 % 
-tibtab                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-better-clouds            22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-fabric-example-mod       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-P1030680                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Unknown Project          1 hr 8 mins         ████████████░░░░░░░░░░░░░   47.27 % 
+tibtab                   25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+better-clouds            22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+fabric-example-mod       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+P1030680                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 💻 Operating System: 
-Linux                    2 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 58 mins (85.15%)
+⏱ AI Coding Time: 2 hrs 3 mins (85.7%)
 
 ✍️ 182 lines written by AI, 161 lines written by hand (53.06% AI-written)
 
-🔤 528,750 Input Tokens, 72,672 Output Tokens
+🔤 535,939 Input Tokens, 74,346 Output Tokens
 
-💵 $19.13 Estimated AI Cost This Week
+💵 $19.65 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 10 AI Prompts
+🧠 4 AI Sessions, 11 AI Prompts
 
 Opencode-Cli             4 lines             ██████████████░░░░░░░░░░░   57.14 % 
 Deepseek                 3 lines             ███████████░░░░░░░░░░░░░░   42.86 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 53.06% of written lines came from AI
-📝 Concise Prompter — average 166 characters per prompt
+📝 Concise Prompter — average 161 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 39.53% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/09/2026 04:26:12 UTC
+ Last Updated on 27/09/2026 04:42:38 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
