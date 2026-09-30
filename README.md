@@ -11,7 +11,7 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2026%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -27,52 +27,54 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Lua                      53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-Other                    42 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Java                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Python                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+C                        4 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.44 % 
+Java                     2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Python                   1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 
 🔥 Editors: 
-OpenCode                 3 hrs 18 mins       █████████████████████░░░░   83.42 % 
-Neovim                   39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+OpenCode                 12 hrs              ██████████████████████░░░   88.04 % 
+Opencode Cli             58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Neovim                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🐱‍💻 Projects: 
-better-clouds            1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-Unknown Project          58 mins             ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-tibtab                   47 mins             █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-26.3                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-fabric-example-mod       15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+dungeons2-compat         6 hrs 12 mins       ███████████░░░░░░░░░░░░░░   45.56 % 
+fabric-example-mod       1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+better-clouds            1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Dungeons2_linux_fix      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Streamotes               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 
 💻 Operating System: 
-Linux                    3 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    13 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 37 mins (91.51%)
+⏱ AI Coding Time: 13 hrs 18 mins (97.53%)
 
-✍️ 707 lines written by AI, 161 lines written by hand (81.45% AI-written)
+✍️ 2,395 lines written by AI, 161 lines written by hand (93.7% AI-written)
 
-🔤 2,710,558 Input Tokens, 562,761 Output Tokens
+🔤 6,022,687 Input Tokens, 1,248,191 Output Tokens
 
-💵 $211.03 Estimated AI Cost This Week
+💵 $466.83 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 54 AI Prompts
+🧠 27 AI Sessions, 197 AI Prompts
 
-Deepseek                 617 lines           ████████████████████████░   97.94 % 
-Opencode-Cli             13 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Deepseek                 1,390 lines         ██████████████████████░░░   88.14 % 
+GPT                      174 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Opencode-Cli             13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.45% of written lines came from AI
-📝 Concise Prompter — average 166 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 15.27% of changed lines were hand-edited
+🤖 AI-Driven — 93.7% of written lines came from AI
+📝 Concise Prompter — average 159 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 4.66% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/09/2026 05:11:52 UTC
+ Last Updated on 30/09/2026 04:58:43 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
