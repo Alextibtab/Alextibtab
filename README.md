@@ -9,17 +9,17 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-135%20hrs%207%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-🌆 Daytime                392 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-🌃 Evening                1244 commits        █████████████░░░░░░░░░░░░   52.78 % 
-🌙 Night                  556 commits         ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+🌞 Morning                165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+🌆 Daytime                392 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+🌃 Evening                1246 commits        █████████████░░░░░░░░░░░░   52.64 % 
+🌙 Night                  564 commits         ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
 ```
 
 
@@ -27,54 +27,54 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-C                        4 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.44 % 
-Java                     2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Python                   1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+C                        4 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.16 % 
+Other                    1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Java                     1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Python                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Markdown                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 
 🔥 Editors: 
-OpenCode                 12 hrs              ██████████████████████░░░   88.04 % 
-Opencode Cli             58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Neovim                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+OpenCode                 11 hrs 37 mins      ██████████████████████░░░   89.42 % 
+Opencode Cli             58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Neovim                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🐱‍💻 Projects: 
-dungeons2-compat         6 hrs 12 mins       ███████████░░░░░░░░░░░░░░   45.56 % 
-fabric-example-mod       1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-better-clouds            1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Dungeons2_linux_fix      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Streamotes               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+dungeons2-compat         6 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.83 % 
+Dungeons2_linux_fix      1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Streamotes               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+fabric-example-mod       1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Unknown Project          49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 💻 Operating System: 
-Linux                    13 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 18 mins (97.53%)
+⏱ AI Coding Time: 12 hrs 54 mins (99.38%)
 
-✍️ 2,395 lines written by AI, 161 lines written by hand (93.7% AI-written)
+✍️ 2,061 lines written by AI, 161 lines written by hand (92.75% AI-written)
 
-🔤 6,022,687 Input Tokens, 1,248,191 Output Tokens
+🔤 5,375,880 Input Tokens, 1,147,197 Output Tokens
 
-💵 $466.83 Estimated AI Cost This Week
+💵 $400.64 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 197 AI Prompts
+🧠 29 AI Sessions, 193 AI Prompts
 
-Deepseek                 1,390 lines         ██████████████████████░░░   88.14 % 
-GPT                      174 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Opencode-Cli             13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Deepseek                 1,092 lines         █████████████████████░░░░   85.38 % 
+GPT                      174 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Opencode-Cli             13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.7% of written lines came from AI
-📝 Concise Prompter — average 159 characters per prompt
+🤖 AI-Driven — 92.75% of written lines came from AI
+📝 Concise Prompter — average 160 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 4.66% of changed lines were hand-edited
+🚀 High AI Trust — 5.19% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 04:58:43 UTC
+ Last Updated on 01/10/2026 05:12:20 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
