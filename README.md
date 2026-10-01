@@ -77,6 +77,6 @@ Opencode-Cli             13 lines            ░░░░░░░░░░░�
  Last Updated on 30/09/2026 04:58:43 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
-  [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/spotify/listen)
+  [![Currently Playing](https://now-playing.alextibtab.deno.net/lastfm/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
 </div>
 
