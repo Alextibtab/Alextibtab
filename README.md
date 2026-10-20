@@ -9,17 +9,17 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-188%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-191%20hrs%2058%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-🌆 Daytime                392 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-🌃 Evening                1246 commits        █████████████░░░░░░░░░░░░   52.64 % 
-🌙 Night                  564 commits         ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+🌆 Daytime                392 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+🌃 Evening                1247 commits        █████████████░░░░░░░░░░░░   52.66 % 
+🌙 Night                  564 commits         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
 ```
 
 
@@ -27,54 +27,54 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-Text                     2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Markdown                 1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Python                   1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-C#                       1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Other                    2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Python                   2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Astro                    1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Text                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Markdown                 1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 
 🔥 Editors: 
-Opencode Cli             9 hrs 15 mins       ███████████████████░░░░░░   74.09 % 
-OpenCode                 1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Neovim                   1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Opencode Cli             12 hrs 42 mins      █████████████████████░░░░   82.71 % 
+Neovim                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+OpenCode                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 
 🐱‍💻 Projects: 
-trackmania               6 hrs 36 mins       █████████████░░░░░░░░░░░░   52.94 % 
-dota2-report             2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-tibtab                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Unknown Project          41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-config                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+trackmania               6 hrs 36 mins       ███████████░░░░░░░░░░░░░░   43.01 % 
+dota2-report             5 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.40 % 
+dns_tweak                56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Unknown Project          42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+config                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 💻 Operating System: 
-Linux                    12 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 5 mins (96.8%)
+⏱ AI Coding Time: 14 hrs 52 mins (96.83%)
 
-✍️ 4,638 lines written by AI, 3 lines written by hand (99.94% AI-written)
+✍️ 10,616 lines written by AI, 3 lines written by hand (99.97% AI-written)
 
-🔤 10,604,810 Input Tokens, 1,714,394 Output Tokens
+🔤 15,991,740 Input Tokens, 2,322,539 Output Tokens
 
-💵 $976.92 Estimated AI Cost This Week
+💵 $1611.59 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 152 AI Prompts
+🧠 16 AI Sessions, 157 AI Prompts
 
-DeepSeek                 3,921 lines         █████████████████████░░░░   83.73 % 
-Spark                    762 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+DeepSeek                 10,242 lines        ████████████████████████░   94.24 % 
+Spark                    626 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📄 Detailed Prompter — average 686 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📄 Detailed Prompter — average 689 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/10/2026 04:05:32 UTC
+ Last Updated on 20/10/2026 04:18:58 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
