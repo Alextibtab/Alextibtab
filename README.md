@@ -27,53 +27,52 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-Other                    2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-Astro                    1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-Rust                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-C++                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Python                   2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+Other                    2 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Astro                    1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Rust                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+CMake                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 🔥 Editors: 
-Opencode Cli             8 hrs 26 mins       ███████████████████████░░   91.59 % 
-Neovim                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Opencode Cli             8 hrs 17 mins       █████████████████████░░░░   82.13 % 
+Neovim                   1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+OpenCode                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🐱‍💻 Projects: 
-dota2-report             5 hrs 7 mins        ██████████████░░░░░░░░░░░   55.67 % 
-trackmania               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-dns_tweak                56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-config                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-clouds                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+dota2-report             5 hrs 7 mins        █████████████░░░░░░░░░░░░   50.80 % 
+trackmania               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+dns_tweak                56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Unknown Project          41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+config                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 💻 Operating System: 
-Linux                    9 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 43 mins (94.72%)
+⏱ AI Coding Time: 8 hrs 49 mins (87.31%)
 
-✍️ 8,978 lines written by AI, 3 lines written by hand (99.97% AI-written)
+✍️ 12,228 lines written by AI, 91 lines written by hand (99.26% AI-written)
 
-🔤 12,437,015 Input Tokens, 1,714,122 Output Tokens
+🔤 12,313,151 Input Tokens, 1,798,604 Output Tokens
 
-💵 $1318.73 Estimated AI Cost This Week
+💵 $1129.69 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 75 AI Prompts
+🧠 12 AI Sessions, 73 AI Prompts
 
-DeepSeek                 9,186 lines         █████████████████████████   98.93 % 
-Spark                    99 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+DeepSeek                 12,343 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📄 Detailed Prompter — average 1,353 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🤖 AI-Driven — 99.26% of written lines came from AI
+📄 Detailed Prompter — average 1,411 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.77% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/10/2026 04:11:33 UTC
+ Last Updated on 24/10/2026 04:04:04 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
