@@ -9,17 +9,17 @@
 Welcome to my profile, I'm a software developer my main languages are python, java/typescript and java. Some languages I want to learn more about are Rust, C++ and Go. I mainly know web development but am interested in graphics programming using OpenGL or Vulkan.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-208%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%2055%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                146 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-🌆 Daytime                358 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-🌃 Evening                1180 commits        █████████████░░░░░░░░░░░░   52.61 % 
-🌙 Night                  559 commits         ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+🌞 Morning                145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+🌆 Daytime                358 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+🌃 Evening                1180 commits        █████████████░░░░░░░░░░░░   52.63 % 
+🌙 Night                  559 commits         ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
 ```
 
 
@@ -74,7 +74,7 @@ GLM                      3,994 lines         ███░░░░░░░░�
 ```
 
 
- Last Updated on 31/10/2026 04:57:01 UTC
+ Last Updated on 01/11/2026 05:24:18 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
