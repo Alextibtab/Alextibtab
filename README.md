@@ -27,43 +27,42 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-Markdown                 1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Python                   1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Text                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-ActionScript             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Python                   1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+Markdown                 1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Text                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Other                    51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+ActionScript             20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 1 min         ███████████████████████░░   92.52 % 
-Neovim                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-OpenCode                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Opencode Cli             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Claude Code              5 hrs               ████████████████████████░   95.02 % 
+Neovim                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Opencode Cli             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🐱‍💻 Projects: 
-dota2-report             1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-speedrunning             1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-ai                       46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-openplanet-speedrun-tool 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-dns_tweak                41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+dota2-report             1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+speedrunning             1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+openplanet-speedrun-tool 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+dns_tweak                35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+hypr                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 
 💻 Operating System: 
-Linux                    6 hrs 31 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 29 mins (99.49%)
+⏱ AI Coding Time: 5 hrs 14 mins (99.37%)
 
-✍️ 1,190 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 681 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,113,899 Input Tokens, 767,581 Output Tokens
+🔤 1,757,913 Input Tokens, 649,735 Output Tokens
 
-💵 $79.30 Estimated AI Cost This Week
+💵 $69.11 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 90 AI Prompts
+🧠 11 AI Sessions, 65 AI Prompts
 
-Fable                    1,193 lines         █████████████████████████   100.00 % 
+Fable                    684 lines           █████████████████████████   100.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemma                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -71,13 +70,13 @@ Qwen                     0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 424 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 548 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/11/2026 06:49:35 UTC
+ Last Updated on 19/11/2026 06:50:15 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
