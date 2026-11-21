@@ -27,49 +27,48 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Python                   58 mins             ███████████░░░░░░░░░░░░░░   43.07 % 
-Other                    32 mins             ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Lua                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Python                   31 mins             ████████░░░░░░░░░░░░░░░░░   33.25 % 
+Other                    27 mins             ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+Markdown                 20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Lua                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Astro                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 16 mins       █████████████████████████   100.00 % 
+Claude Code              1 hr 35 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dota2-report             1 hr 4 mins         ████████████░░░░░░░░░░░░░   47.04 % 
-dns_tweak                35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-hypr                     26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-tibtab                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+dota2-report             58 mins             ███████████████░░░░░░░░░░   61.32 % 
+hypr                     26 mins             ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+tibtab                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 
 💻 Operating System: 
-Linux                    2 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 16 mins (100.0%)
+⏱ AI Coding Time: 1 hr 35 mins (100.0%)
 
-✍️ 259 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 34 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,077,791 Input Tokens, 391,181 Output Tokens
+🔤 663,467 Input Tokens, 233,980 Output Tokens
 
-💵 $38.95 Estimated AI Cost This Week
+💵 $24.94 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 27 AI Prompts
+🧠 4 AI Sessions, 23 AI Prompts
 
-Fable                    259 lines           █████████████████████████   100.00 % 
+Fable                    34 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 603 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 681 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/11/2026 06:38:47 UTC
+ Last Updated on 21/11/2026 06:30:49 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
