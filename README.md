@@ -27,46 +27,26 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-Python                   31 mins             ████████████████░░░░░░░░░   63.40 % 
-Markdown                 14 mins             ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-Astro                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dota2-report             50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (100.0%)
-
-✍️ 2 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 421,861 Input Tokens, 143,534 Output Tokens
-
-💵 $15.95 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 11 AI Prompts
-
-Fable                    2 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,308 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 22/11/2026 06:00:27 UTC
+ Last Updated on 23/11/2026 06:50:58 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
