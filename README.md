@@ -27,26 +27,48 @@ Welcome to my profile, I'm a software developer my main languages are python, ja
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 52 mins             ███████████████░░░░░░░░░░   60.76 % 
+QML                      23 mins             ███████░░░░░░░░░░░░░░░░░░   27.28 % 
+TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              1 hr 27 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+quickshell               46 mins             █████████████░░░░░░░░░░░░   53.15 % 
+totd-at-hunt-stats       40 mins             ████████████░░░░░░░░░░░░░   46.85 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 27 mins (100.0%)
+
+✍️ 842 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 799,066 Input Tokens, 244,982 Output Tokens
+
+💵 $18.69 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 16 AI Prompts
+
+Fable                    842 lines           █████████████████████████   100.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 4,801 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/11/2026 07:43:27 UTC
+ Last Updated on 28/11/2026 07:10:15 UTC
 <!--END_SECTION:waka-->
 &nbsp;<div align="center">
   [![Currently Playing](https://now-playing.alextibtab.deno.net/spotify/now-playing.svg)](https://now-playing.alextibtab.deno.net/lastfm/listen)
